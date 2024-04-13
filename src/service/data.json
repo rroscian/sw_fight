@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "nom": "Laika",
+    "image": "https://summonerswarskyarena.info/wp-content/uploads/2016/08/Laika-Fire.png",
+    "categorie" : "Attaque",
+    "type": "fire",
+    "vie": 20760,
+    "force": 1908,
+    "defense": 527,
+    "vitesse": 100,
+    "techniques": [ 
+      "Puissance du Dragon",
+      "Justice",
+      "Rage du Roi",
+      "Torrent de Coups"
+    ],
+    "passif": "Flux Draconique"
+  },{
+    "id": 2,
+    "nom": "Artamiel",
+    "image": "https://summonerswarskyarena.info/wp-content/uploads/2017/02/Artamiel_Icon.png",
+    "categorie" : "Defense",
+    "type": "light",
+    "vie": 31196,
+    "force": 980,
+    "defense": 1540,
+    "vitesse": 104,
+    "techniques": [ 
+      "Épée Divine",
+      "Bénédiction de l'Archange",
+      "Sanction Suprême",
+      "Éclat Divin"
+    ],
+    "passif": "Jugement Inflexible"
+  },{
+    "id": 3,
+    "nom": "Rina",
+    "image": "https://summonerswarskyarena.info/wp-content/uploads/2016/12/Rina_Icon.png",
+    "categorie" : "Cleric",
+    "type": "water",
+    "vie": 54010,
+    "force": 439,
+    "defense": 1159,
+    "vitesse": 96,
+    "techniques": [ 
+      "Flux de Mana",
+      "Dévitalisation",
+      "Aura Fanatique",
+      "Contrôle des Âmes"
+    ],
+    "passif": "Barrière de Mana"
+  },{
+    "id": 4,
+    "nom": "Mi Ying",
+    "image": "https://summonerswarskyarena.info/wp-content/uploads/2016/05/Mi-Ying-Dark.png",
+    "categorie" : "Tank",
+    "type": "dark",
+    "vie": 37035,
+    "force": 881,
+    "defense": 867,
+    "vitesse": 94,
+    "techniques": [ 
+      "Attaque Séquentielle",
+      "Esprit Calme",
+      "Force Implacable",
+      "Vents et Nuages"
+    ],
+    "passif": "Forte Énergie"
+  }
+]
